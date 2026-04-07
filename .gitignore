@@ -7,6 +7,7 @@ yarn.lock
 .env
 .env.local
 .env.*.local
+.env.*.local
 
 # Database
 tareas.db
