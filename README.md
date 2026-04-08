@@ -122,13 +122,9 @@ Para producción, considera:
 4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT.
-
 ## 📞 Contacto
 
-JeanRdgz - [Tu GitHub](https://github.com/JeanRdgz)
+JeanRdgz - [GitHub](https://github.com/JeanRdgz)
 
 ---
 
